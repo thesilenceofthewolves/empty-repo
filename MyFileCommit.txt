@@ -1,0 +1,3 @@
+Really nice course on github 
+how do you use an other editor instead of notepad ?
+tried command notepad++ ....:-) not working
